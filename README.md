@@ -1,8 +1,6 @@
 # Guess The Answer
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Guess The Answer is a simple and quick quiz game for users who want to increase their general & IQ knowledge. By playing the game, making the correct & incorrect choices, they will remember and memorize the answers. This website is available globally for anyone from anywhere in the world! 
 
 ![Responsice Mockup](https://github.com/haris-noori/guess-the-answer/blob/master/assets/img/AmIResponsive.png)
 

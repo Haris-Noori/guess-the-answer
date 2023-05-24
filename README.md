@@ -2,7 +2,7 @@
 
 Guess The Answer is a simple and quick quiz game for users who want to increase their general & IQ knowledge. By playing the game, making the correct & incorrect choices, they will remember and memorize the answers. This website is available globally for anyone from anywhere in the world! 
 
-![Responsice Mockup](https://github.com/haris-noori/guess-the-answer/blob/master/assets/img/AmIResponsive.png)
+![Responsice Mockup](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/AmIResponsive.png)
 
 ## Features 
 

@@ -40,9 +40,13 @@ const questions = [
 const questionElement = document.getElementById("question");
 const answerButtons = document.getElementById("answer-buttons");
 const nextButton = document.getElementById("next-btn");
+const progress = document.getElementById("progress");
+const TotalQuestions = document.getElementById("total")
+const currentQuestionNo = document.getElementById("current-question");
 
 let currentQuestionIndex = 0;
 let score = 0;
+TotalQuestions.innerHTML = questions.length;
 
 /**
  * starts the quiz 
@@ -65,6 +69,9 @@ function showQuestion() {
     resetState();
     let currentQuestion = questions[currentQuestionIndex];
     let questionNum = currentQuestionIndex + 1;
+    currentQuestionNo.innerHTML = questionNum;
+    progress.setAttribute("value", questionNum);
+
     questionElement.innerHTML = questionNum + ". " + currentQuestion.question;
 
     currentQuestion.answers.forEach(answer => {

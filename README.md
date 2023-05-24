@@ -29,18 +29,18 @@ Some of the features are existing and there alot more features to come in next r
 
 ![Right Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.38%20PM.png)
 
-- __Wrong Option__
+- __Wrong Option & Progress Bar__
 
   - This is how the wrong option screen look like. 
+  - When next button is pressed, the progress bar also change.
 
 ![Wrong Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.52%20PM.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section displays the name of the game, and the company or developer, who made this game website.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/footer.png)
 
 - __Gallery__
 

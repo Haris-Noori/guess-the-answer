@@ -42,12 +42,11 @@ Some of the features are existing and there alot more features to come in next r
 
 ![Footer](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/footer.png)
 
-- __Gallery__
+- __Score Section__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - When all the questions are attempted by the user, this screen will change and it will display the score of the user. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Score](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/score.png)
 
 - __The Sign Up Page__
 

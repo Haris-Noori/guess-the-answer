@@ -5,9 +5,7 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: #001e4d;
-}
+body {  background-color: #001e4d; }
 
 .app{
     background-color: #fff;

@@ -7,11 +7,64 @@
 
 body {  background-color: #001e4d; }
 
+/* Header styles */
+header {
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
+    position: relative;
+    color: #fff;
+    padding: 5px;
+    font-size: 25px;
+}
+
+.header-logo {
+    height: 50px;
+    width: 100px;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media(max-width: 700px) { header h1 { font-size: 26px; } }
+
+@media(max-width: 500px) {
+    header h1 { font-size: 20px; }
+    header #second-logo {  display: none; }
+}
+
+@media(max-width: 330px) {
+    .header-logo {
+        height: 30px;
+        width: 60px;
+    }
+    header h1 { font-size: 17px; }
+}
+
+/* Footer styles */
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
+}
+
+footer h4{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.fa-heart { color: #f44336; }
+
+/* App Styles */
 .app{
     background-color: #fff;
     width: 90%;
     max-width: 600px;
-    margin: 100px auto 0;
+    margin: 100px auto 100px;
     border-radius: 10px;
     padding: 30px;
 }
@@ -71,41 +124,3 @@ body {  background-color: #001e4d; }
 
 .correct { background-color: #9aeabc; }
 .incorrect { background-color: #ff9393; }
-
-/* Header */
-header {
-    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
-    position: relative;
-    color: #fff;
-}
-
-.header-logo {
-    height: 50px;
-    width: 100px;
-}
-
-nav {
-    display: flex;
-    padding: 2% 6%;
-    justify-content: space-between;
-    align-items: center;
-}
-
-@media(max-width: 500px) {
-    header h1 {
-        font-size: 20px;
-    }
-    header #second-logo {
-        display: none;
-    }
-}
-
-@media(max-width: 330px) {
-    .header-logo {
-        height: 30px;
-        width: 60px;
-    }
-    header h1 {
-        font-size: 17px; 
-    }
-}

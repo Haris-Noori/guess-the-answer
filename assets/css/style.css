@@ -22,7 +22,11 @@ body {
     font-size: 25px;
     font-weight: 600;
     color: #001e4d;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.app #instructions {
+    padding-bottom: 20px;
     border-bottom: 1px solid #333;
 }
 

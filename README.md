@@ -16,26 +16,24 @@ Some of the features are existing and there alot more features to come in next r
 
 ![Nav Bar](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%207.01.54%20PM.png)
 
-- __The landing page image__
+- __The Main Game Section__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This is the main section of the website where user will interact first.
+  - User will read the instructions first, and then select the option that he think is correct
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Main Game Section](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.10%20PM.png)
 
-- __Club Ethos Section__
+- __After Pressing Option__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - After Selecting the one option, if the answer is right the selected option will turn intor green, and if it is not then, the selected one will turn red and the other correct option will turn green automatically.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Right Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.38%20PM.png)
 
-- __Meetup Times section__
+- __Wrong Option__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This is how the wrong option screen look like. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Wrong Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.52%20PM.png)
 
 - __The Footer__ 
 

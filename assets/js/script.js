@@ -50,8 +50,6 @@ TotalQuestions.innerHTML = questions.length;
 
 /**
  * starts the quiz 
- * @param {none}
- * @return {none}
  */
 function startQuiz() {
     currentQuestionIndex = 0;
@@ -62,8 +60,6 @@ function startQuiz() {
 
 /**
  * displays/changes the question in HTML element
- * @param {none}
- * @return {none}
  */
 function showQuestion() {
     resetState();
@@ -89,8 +85,6 @@ function showQuestion() {
 
 /**
  * remove all the data, questions and answers, starts from index of the game
- * @param {none}
- * @return {none}
  */
 function resetState() {
     nextButton.style.display = "none";
@@ -102,7 +96,6 @@ function resetState() {
 /**
  * when any answer is selected, this function executes
  * @param {event} e [has the selected answer]
- * @return {none}
  */
 function selectAnswer(e) {
     let selectedBtn = e.target;
@@ -125,8 +118,6 @@ function selectAnswer(e) {
 
 /**
  * At the end of all the questions, it displays the score of the user
- * @param {none}
- * @return {none}
  */
 function showScore() {
     resetState();
@@ -137,8 +128,6 @@ function showScore() {
 
 /**
  * this function executes, when next button is pressed by user
- * @param {none}
- * @return {none}
  */
 function handleNextButton() {
     currentQuestionIndex++;
@@ -151,8 +140,6 @@ function handleNextButton() {
 
 /**
  * this function executes, to start the quiz again, or go to next question
- * @param {none}
- * @return {none}
  */
 nextButton.addEventListener("click", () => {
     if(currentQuestionIndex < questions.length) {

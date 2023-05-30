@@ -14,27 +14,27 @@ Some of the features are existing and there alot more features to come in next r
 
   - A full responsive navigation bar, which shows the quiz game logo.
 
-![Nav Bar](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%207.01.54%20PM.png)
+![Nav Bar](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/navbar.png)
 
 - __The Main Game Section__
 
   - This is the main section of the website where user will interact first.
   - User will read the instructions first, and then select the option that he think is correct
 
-![Main Game Section](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.10%20PM.png)
+![Main Game Section](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/main_game_section.png)
 
-- __After Pressing Option__
+- __Selecting Option__
 
   - After Selecting the one option, if the answer is right the selected option will turn intor green, and if it is not then, the selected one will turn red and the other correct option will turn green automatically.
 
-![Right Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.38%20PM.png)
+![Right Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/right_option.png)
 
 - __Wrong Option & Progress Bar__
 
   - This is how the wrong option screen look like. 
   - When next button is pressed, the progress bar also change.
 
-![Wrong Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/Screenshot%202023-05-24%20at%206.34.52%20PM.png)
+![Wrong Option](https://github.com/Haris-Noori/guess-the-answer/blob/main/assets/img/wrong_option.png)
 
 - __The Footer__ 
 

@@ -78,6 +78,16 @@ How this project is deployed on GitHub Pages
   - From the source section drop-down menu, select the Main Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
+  How you can deploy on your environment
+
+  - Go to the repostiry link https://haris-noori.github.io/guess-the-answer/
+  - Select the green "Code" dropdown button
+  - copy the repo URL and open your system terminal
+  - type in your terminal ```git clone <URL>```, and enter
+  - then cd into project directory
+  - start the server with ```python3 -m http.server```
+  - and it will start running on your local IP, e.g, https://127.0.0.1/, try going to this link on your browser
+
 The live link can be found here - https://haris-noori.github.io/guess-the-answer/
 
 

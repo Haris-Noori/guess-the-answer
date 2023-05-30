@@ -28,21 +28,6 @@ nav {
     align-items: center;
 }
 
-@media(max-width: 700px) { header h1 { font-size: 26px; } }
-
-@media(max-width: 500px) {
-    header h1 { font-size: 20px; }
-    header #second-logo {  display: none; }
-}
-
-@media(max-width: 330px) {
-    .header-logo {
-        height: 30px;
-        width: 60px;
-    }
-    header h1 { font-size: 17px; }
-}
-
 /* Footer styles */
 footer {
     width: 100%;
@@ -124,3 +109,19 @@ footer h4{
 
 .correct { background-color: #9aeabc; }
 .incorrect { background-color: #ff9393; }
+
+/* media queries */
+@media(max-width: 700px) { header h1 { font-size: 26px; } }
+
+@media(max-width: 500px) {
+    header h1 { font-size: 20px; }
+    header #second-logo {  display: none; }
+}
+
+@media(max-width: 330px) {
+    .header-logo {
+        height: 30px;
+        width: 60px;
+    }
+    header h1 { font-size: 17px; }
+}
